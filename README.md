@@ -1,6 +1,6 @@
 # Work Day Calendar
 
-![Photo of Application]()
+![Photo of Application](./assets/work-day-calendar.png)
 
 
 # Link to Application
